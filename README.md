@@ -1,0 +1,2 @@
+# nextjs-reference-architecture
+AIコーディングエージェント向けNext.jsリファレンスアーキテクチャ
